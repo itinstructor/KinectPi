@@ -1,6 +1,8 @@
 # KinectPi
 
-Kinect Xbox 360 and Raspberry pi
+Kinect Xbox 360 and Raspberry Pi Projects
+
+Becuase of the processing needed, we are using a Raspberry Pi 5.
 
 ## Manual Setup
 
@@ -39,6 +41,10 @@ python kinect_test.py
 # Depth display depth map
 python kinect_depth.py
 ```
+
+## Automated Setup
+
+Coming soon . . .
 
 ### License
 

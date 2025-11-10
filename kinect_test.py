@@ -1,3 +1,8 @@
+"""
+File: kinect_test.py
+Description: Test Kinect XBox 360 connection to a Raspberry Pi
+"""
+
 import freenect
 
 print("Attempting to connect to Kinect...")
